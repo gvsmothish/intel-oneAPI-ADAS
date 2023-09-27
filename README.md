@@ -1,9 +1,8 @@
 # Intel-OneAPI
 
 #### Team Name - Momentum
-#### Team Members - Akash Agrawal, GVS Mothish, Sudarshan Bandyopadhyay, Swapnil Mane
+#### Team Members - GVS Mothish, Akash Agrawal, Sudarshan Bandyopadhyay, Swapnil Mane
 #### Challenge Name - Object Detection For Autonomous Vehicles
-#### Team Leader Email - sudb97@gmail.com
 
 
 <div align="center">
